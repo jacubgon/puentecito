@@ -1,3 +1,46 @@
+*{
+    margin: 0 auto;
+
+}
+main{
+    column-count: 4;
+}
+
+
+header{ 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+}
 body{
-    background-color: aquamarine;
+    background-color: antiquewhite;
+    width: 85%;
+}
+.datos{
+    bord
+}
+
+.datos ul li{border: ;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 20px;
+    width: 25%;
+    text-align: center;
+   
+}
+
+#exorcistas{
+  
+}
+
+#mono{
+    
+  
+}
+img{
+    width: 100%;
+}
+
+gif cabecera{
+    height: 50s%;
 }
